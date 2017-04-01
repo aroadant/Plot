@@ -1,6 +1,6 @@
 # Plot
 Python Plot
 
-Use it for fun
-Don't hate plotting
-Igonore zeros
+Use it for fun \n
+Don't hate plotting \n
+Igonore zeros \n
