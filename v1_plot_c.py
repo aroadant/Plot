@@ -10,7 +10,7 @@ import datetime
 from matplotlib.backends.backend_pdf import PdfPages
 
 #from general_fun import *
-
+###TEST
 
 homed = os.getenv("HOME")
 currd = os.getenv('PWD')
