@@ -16,7 +16,7 @@ homed = os.getenv("HOME")
 currd = os.getenv('PWD')
 currentpath = os.getcwd()
 
-sys.path.append("%s/Dropbox/Lattice_Begin/module_py/" % (homed))
+sys.path.append("%s/" % (currd))
 from general_fun import saveJ
 from general_fun import readJ
 from general_fun import pdf_joint
